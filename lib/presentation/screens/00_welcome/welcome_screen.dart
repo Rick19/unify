@@ -1,0 +1,1 @@
+//  Pantalla para detectar si es la primera vez que el usuario abre la app o se han borrado los datos del dispositivo
